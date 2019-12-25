@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">helloworld</string>
+    <string name="tv_text">textview text</string>
 </resources>
